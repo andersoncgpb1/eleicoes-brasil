@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Apuracao Eleicoes Brasil
-Plugin URI: https://github.com/valeriosouza/apuracao-eleicoes-brasil
+Plugin URI: https://github.com/andersoncgpb1/eleicoes-brasil
 Description: Apuração das Eleições do Brasil
 Version: 1.0
 Author: Anderson Souza
