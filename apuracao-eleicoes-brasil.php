@@ -12,7 +12,7 @@ Domain Path: /languages
 
 // Add Shortcode
 function apura_tse() {?>
-<iframe src="https://resultados.tse.jus.br/oficial/app/index.html" height="700" width="100%" frameborder="0" scrolling="auto">You need an iframes capable browser to view this content.</iframe>
+<iframe src="hhttps://resultados.tse.jus.br/oficial/ele2022/544/dados-simplificados/br/br-c0001-e000544-r.json" height="700" width="100%" frameborder="0" scrolling="auto">You need an iframes capable browser to view this content.</iframe>
 <?php 
 }
 add_shortcode( 'apuracao', 'apura_tse' );
